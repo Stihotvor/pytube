@@ -7,7 +7,7 @@ name = "pypi"
 typing_extensions = "*"
 
 [dev-packages]
-black = "==19.10b0"
+black = "==24.3.0"
 codecov = "*"
 coveralls = "*"
 flake8 = "*"
